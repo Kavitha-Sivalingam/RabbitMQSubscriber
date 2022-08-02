@@ -1,0 +1,2 @@
+# RabbitMQSubscriber
+Subscriber project
